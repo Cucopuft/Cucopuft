@@ -10,12 +10,12 @@
 
 ## Education:
 #### 1. [Jenderal Soedirman University](https://unsoed.ac.id/) | Electrical Engineering major | Purwokerto
-   - Head of the Department of Web and Applications at the Ministry of Communication and Information Media BEM Jenderal Soedirman University
-   - Staff Design, Documentation, and Decoration of Jenderal Soedirman University Cultural Festival
-   - Jenderal Soedirman University's Public Relations staff at the Electrical Days event 
- #### 2. [SMA N 1 Banyumas](http://www.smanegeribanyumas.sch.id/) | MIPA | Banyumas `2017-2020`
+#### 2. [SMA N 1 Banyumas](http://www.smanegeribanyumas.sch.id/) | MIPA | Banyumas `2017-2020`
 
-
+## Organisational Experience:
+#### 1.  Head of the Department of Web and Applications at the Ministry of Communication and Information Media BEM Jenderal Soedirman University
+#### 2.  Staff Design, Documentation, and Decoration of Jenderal Soedirman University Cultural Festival
+#### 3.  Jenderal Soedirman University's Public Relations staff at the Electrical Days event 
 
 ## Portofolio:
 #### 1. [UI/UX designer Appsoed Pro 2.0 App](https://www.figma.com/file/q9GQCLoY0oUezJHyUWfygD/Appsoed-Pro-2.0?node-id=0%3A1) | Jenderal Soedirman University | `2021`
