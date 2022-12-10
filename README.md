@@ -10,7 +10,8 @@
 
 ## Education:
 #### 1. [Jenderal Soedirman University](https://unsoed.ac.id/) | Electrical Engineering major | Purwokerto
-#### 2. [SMA N 1 Banyumas](http://www.smanegeribanyumas.sch.id/) | MIPA | Banyumas `2017-2020`
+#### 2. [SMA Negeri 1 Banyumas](http://www.smanegeribanyumas.sch.id/) | MIPA | Banyumas `2017-2020`
+#### 3. [SMP Negeri 2 Susukan](http://www.smanegeribanyumas.sch.id/) | MIPA | Banyumas `2017-2020`
 
 ## Organisational Experience:
 #### 1.  Head of the Department of Web and Applications at the Ministry of Communication and Information Media BEM Jenderal Soedirman University
