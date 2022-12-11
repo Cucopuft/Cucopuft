@@ -9,9 +9,9 @@
 
 
 ## Education:
-#### 1. [Jenderal Soedirman University](https://unsoed.ac.id/) | Electrical Engineering major | Purwokerto
+#### 1. [Jenderal Soedirman University](https://unsoed.ac.id/) | Electrical Engineering | Purwokerto
 #### 2. [SMA Negeri 1 Banyumas](http://www.smanegeribanyumas.sch.id/) | MIPA | Banyumas `2017-2020`
-#### 3. [SMP Negeri 2 Susukan](https://www.smpn2susukan.sch.id/) | MIPA | Banyumas `2017-2020`
+#### 3. [SMP Negeri 2 Susukan](https://www.smpn2susukan.sch.id/) | MIPA | Banjarnegara `2014-2017`
 
 ## Organisational Experience:
 #### 1.  Head of the Department of Web and Applications at the Ministry of Communication and Information Media BEM Jenderal Soedirman University
@@ -19,9 +19,9 @@
 #### 3.  Jenderal Soedirman University's Public Relations staff at the Electrical Days event 
 
 ## Portofolio:
-#### 1. [UI/UX designer Appsoed Pro 2.0 App](https://www.figma.com/file/q9GQCLoY0oUezJHyUWfygD/Appsoed-Pro-2.0?node-id=0%3A1) | Jenderal Soedirman University | `2021`
-#### 2. [Developer Appsoed Pro 2.0 App](https://github.com/medkom22/appsoed2.git) | Jenderal Soedirman University | `2021`
-#### 3. [Pamphlet Design](https://drive.google.com/drive/folders/1Csl8dUBeSnAarPVNip7sE2E4-vX7tDzZ?usp=sharing) | Jenderal Soedirman University | `2020-2022`
+#### 1. [UI/UX designer Appsoed Pro 2.0 App](https://www.figma.com/file/q9GQCLoY0oUezJHyUWfygD/Appsoed-Pro-2.0?node-id=0%3A1) | `2021`
+#### 2. [Developer Appsoed Pro 2.0 App](https://github.com/medkom22/appsoed2.git) | `2021`
+#### 3. [Pamphlet Design](https://drive.google.com/drive/folders/1Csl8dUBeSnAarPVNip7sE2E4-vX7tDzZ?usp=sharing) | `2020-2022`
   
 ---
 
