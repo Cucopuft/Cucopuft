@@ -22,6 +22,10 @@
 #### 1. [UI/UX designer Appsoed Pro 2.0 App](https://www.figma.com/file/q9GQCLoY0oUezJHyUWfygD/Appsoed-Pro-2.0?node-id=0%3A1) | `2021`
 #### 2. [Developer Appsoed Pro 2.0 App](https://github.com/medkom22/appsoed2.git) | `2021`
 #### 3. [Pamphlet Design](https://drive.google.com/drive/folders/1Csl8dUBeSnAarPVNip7sE2E4-vX7tDzZ?usp=sharing) | `2020-2022`
+
+## Sertifikasi:
+#### 1. [DICODING-Belajar Dasar-Dasar DevOps](https://www.dicoding.com/certificates/ERZR01W8OXYV) 
+#### 2. [DICODING-Memulai Pemogaraman dengan Python](https://www.dicoding.com/certificates/L4PQM5222ZO1)
   
 ---
 
