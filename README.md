@@ -16,7 +16,10 @@
 ## Organisational Experience:
 #### 1.  Head of the Department of Web and Applications at the Ministry of Communication and Information Media BEM Jenderal Soedirman University
 #### 2.  Staff Design, Documentation, and Decoration of Jenderal Soedirman University Cultural Festival
-#### 3.  Jenderal Soedirman University's Public Relations staff at the Electrical Days event 
+#### 3.  Public Relations staff at the Electrical Days Event Jenderal Soedirman University
+#### 4.  Jenderal Soedirman University's Public Relations Staff at Diesnatalist of Electrical Engineering Event
+#### 5.  Entrepreneurial staff at Electrical Engineering Student Association
+
 
 ## Portofolio:
 #### 1. [UI/UX designer Appsoed Pro 2.0 App](https://www.figma.com/file/q9GQCLoY0oUezJHyUWfygD/Appsoed-Pro-2.0?node-id=0%3A1) | `2021`
