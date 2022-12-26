@@ -15,11 +15,10 @@
 
 ## Organisational Experience:
 #### 1.  Head of the Department of Web and Applications at the Ministry of Communication and Information Media BEM Jenderal Soedirman University
-#### 2.  Staff Design, Documentation, and Decoration of Jenderal Soedirman University Cultural Festival
-#### 3.  Public Relations staff at the Electrical Days Event Jenderal Soedirman University
-#### 4.  Jenderal Soedirman University's Public Relations Staff at Diesnatalist of Electrical Engineering Event
-#### 5.  Entrepreneurial staff at Electrical Engineering Student Association
-
+#### 2.  Staff design, documentation, and decoration of the Jenderal Soedirman University Cultural Festival
+#### 3.  Public relations staff at the Electrical Days Event at Jenderal Soedirman University
+#### 4.  Public Relations Staff from Jenderal Soedirman University at the Diesnatalist of Electrical Engineering Event 
+#### 5.  Entrepreneurial staff at the Electrical Engineering Student Association
 
 ## Portofolio:
 #### 1. [UI/UX designer Appsoed Pro 2.0 App](https://www.figma.com/file/q9GQCLoY0oUezJHyUWfygD/Appsoed-Pro-2.0?node-id=0%3A1) | `2021`
@@ -27,9 +26,9 @@
 #### 3. [Pamphlet Design](https://drive.google.com/drive/folders/1Csl8dUBeSnAarPVNip7sE2E4-vX7tDzZ?usp=sharing) | `2020-2022`
 
 ## Sertifikasi:
-#### 1. [DICODING-Belajar Dasar-Dasar DevOps](https://www.dicoding.com/certificates/ERZR01W8OXYV) 
-#### 2. [DICODING-Memulai Pemogaraman dengan Python](https://www.dicoding.com/certificates/L4PQM5222ZO1)
-  
+#### 1. [DICODING - Belajar Dasar-Dasar DevOps](https://www.dicoding.com/certificates/ERZR01W8OXYV) 
+#### 2. [DICODING - Memulai Pemogaraman dengan Python](https://www.dicoding.com/certificates/L4PQM5222ZO1)
+#### 3. [DICODING - Belajar Dasar Git dengan GitHub](https://www.dicoding.com/academies/317/certificates/1321167)
 ---
 
 ### Languages and Tools:
