@@ -25,7 +25,7 @@
 #### 2. [Developer Appsoed Pro 2.0 App](https://github.com/medkom22/appsoed2.git) | `2021`
 #### 3. [Pamphlet Design](https://drive.google.com/drive/folders/1Csl8dUBeSnAarPVNip7sE2E4-vX7tDzZ?usp=sharing) | `2020-2022`
 
-## Sertifikasi:
+## Certification:
 #### 1. [DICODING - Belajar Dasar-Dasar DevOps](https://www.dicoding.com/certificates/ERZR01W8OXYV) 
 #### 2. [DICODING - Memulai Pemogaraman dengan Python](https://www.dicoding.com/certificates/L4PQM5222ZO1)
 #### 3. [DICODING - Belajar Dasar Git dengan GitHub](https://www.dicoding.com/academies/317/certificates/1321167)
