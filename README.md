@@ -23,7 +23,10 @@
 ## Portofolio:
 #### 1. [UI/UX designer Appsoed Pro 2.0 App](https://www.figma.com/file/q9GQCLoY0oUezJHyUWfygD/Appsoed-Pro-2.0?node-id=0%3A1) | `2021`
 #### 2. [Developer Appsoed Pro 2.0 App](https://github.com/medkom22/appsoed2.git) | `2021`
-#### 3. [Pamphlet Design](https://drive.google.com/drive/folders/1Csl8dUBeSnAarPVNip7sE2E4-vX7tDzZ?usp=sharing) | `2020-2022`
+#### 3. [Use Case Appsoed Pro 2.0](https://docs.google.com/presentation/d/1bZlg45_hio-7QMh8oXK3AdTlWiqLdexe/edit?usp=sharing&ouid=111233184923483968699&rtpof=true&sd=true) | `2022`
+#### 4. [Pamphlet Design](https://drive.google.com/drive/folders/1Csl8dUBeSnAarPVNip7sE2E4-vX7tDzZ?usp=sharing) | `2020-2022`
+
+
 
 ## Certification:
 #### 1. [DICODING - Belajar Dasar-Dasar DevOps](https://www.dicoding.com/certificates/ERZR01W8OXYV) 
