@@ -19,7 +19,7 @@
 #### 3.  Public relations staff at the Electrical Days Event at Jenderal Soedirman University
 #### 4.  Public Relations Staff from Jenderal Soedirman University at the Diesnatalist of Electrical Engineering Event 
 #### 5.  Entrepreneurial staff at the Electrical Engineering Student Association
-#### 6.  inister of Media and Communication of the Executive Board of Students of Jenderal Soedirman University
+#### 6.  Minister of Media and Communication the Student Executive Board at Jenderal Soedirman University
 
 ## Portofolio:
 #### 1. [UI/UX designer Appsoed Pro 2.0 App](https://www.figma.com/file/SJx8RjoNuUgsnaE4zGaM7r/Prototype-Appsoed-Pro-2.0?node-id=1%3A2147&t=nJH7gVnFzUJG2v9n-1) | `2022`
