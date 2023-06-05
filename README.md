@@ -48,7 +48,6 @@
 [<img align="left" alt="c++" width="30px" src="https://cdn.iconscout.com/icon/free/png-128/c-4-226082.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Figma" width="30px" src="https://cdn.iconscout.com/icon/free/png-128/figma-3521426-2944870.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Adobe Photoshop" width="30px" src="https://pngimg.com/uploads/photoshop/small/photoshop_PNG68.png" style="padding-right:0px;" />][webdev]
-[<img align="left" alt="Adobe Illustrator" width="30px" src="https://www.freepik.com/free-icon/illustrator_14597184.htm#query=icon%20adobe%20illustrator&position=3&from_view=search&track=ais" style="padding-right:0px;" />][webdev]
 
 
 <br />
