@@ -1,9 +1,8 @@
 # Hi there, I'm Ratna Iramaya Aziza 👋
 ## About me:
 - 🔭 I’m Electrical Engineering Students at Jenderal Soedirman University
-- 🌱 I’m currently learning Python, Flutter, C++ and Kotlin
+- 🌱 I’m currently learning Python, Flutter, and C++
 - 👯 I’m looking to collaborate as UI/UX Designer and Android Developers
-- 🤔 I’m looking for suggest for Android Developers
 - 💬 Ask me about anything
 - 📫 How to reach me: aratnairamaya@gmail.com
 
@@ -11,7 +10,7 @@
 ## Education:
 #### 1. [Jenderal Soedirman University](https://unsoed.ac.id/) | Electrical Engineering | Purwokerto
 #### 2. [SMA Negeri 1 Banyumas](http://www.smanegeribanyumas.sch.id/) | MIPA | Banyumas `2017-2020`
-#### 3. [SMP Negeri 2 Susukan](https://www.smpn2susukan.sch.id/) | MIPA | Banjarnegara `2014-2017`
+#### 3. [SMP Negeri 2 Susukan] | MIPA | Banjarnegara `2014-2017`
 
 ## Organisational Experience:
 #### 1.  Head of the Department of Web and Applications at the Ministry of Communication and Information Media BEM Jenderal Soedirman University
@@ -20,13 +19,19 @@
 #### 4.  Public Relations Staff from Jenderal Soedirman University at the Diesnatalist of Electrical Engineering Event 
 #### 5.  Entrepreneurial staff at the Electrical Engineering Student Association
 #### 6.  Minister of Media and Communication the Student Executive Board at Jenderal Soedirman University
+#### 7.  Steering Committee of Soedirman Digital School, Student Executive Board at Jenderal Soedirman University
+
+## Work Experiences:
+#### 1.  Speaker in design training event organized by the informatics student association, Jenderal Soedirman University
+#### 2.  The organizing committee for the FORTEI meeting in Central Java, DIY
 
 ## Portofolio:
-#### 1. [UI/UX designer Appsoed Pro 2.0 App](https://www.figma.com/file/SJx8RjoNuUgsnaE4zGaM7r/Prototype-Appsoed-Pro-2.0?node-id=1%3A2147&t=nJH7gVnFzUJG2v9n-1) | `2022`
-#### 2. [UI/UX designer Atma Portal](https://drive.google.com/file/d/1M-FIg1tChmhAHfkp_BO88bSpAX9HNbCj/view?usp=sharing) | `2023`
-#### 3. [Developer Appsoed Pro 2.0 App](https://github.com/medkom22/appsoed2.git) | `2022`
-#### 4. [Use Case Appsoed Pro 2.0](https://docs.google.com/presentation/d/1-42CenU-ak89fXnPFB45lP-JDsrO8zS8/edit?usp=sharing&ouid=111233184923483968699&rtpof=true&sd=true) | `2022`
-#### 5. [Pamphlet Design](https://drive.google.com/drive/folders/1Csl8dUBeSnAarPVNip7sE2E4-vX7tDzZ?usp=sharing) | `2020-2022`
+#### 1. [UI/UX designer Appsoed Pro 2.0 App](https://docs.google.com/presentation/d/1nJ-v9njTLZbN0ZuT-FStZLs7GolTXizl/edit?usp=sharing&ouid=116239608269644482631&rtpof=true&sd=true) | `2022`
+#### 2. [Developer Appsoed Pro 2.0 App](https://github.com/medkom22/appsoed2.git) | `2022`
+#### 3. [UI/UX designer Atma Portal](https://drive.google.com/file/d/1cd5pXst6V-z5dS-eZLsw07ginCTokRC8/view?usp=sharing) | `2023`
+#### 4. [UI/UX Designer Trash Tracker](https://drive.google.com/file/d/1IERd_E6XnzYnH5vwQJtT4-fHHW8SW_QO/view?usp=sharing) | `2023`
+#### 5. [Graphic Design](https://drive.google.com/drive/folders/1bDwrMxK8Sk33P7l4WY19FVIy2WAuoPE9?usp=sharing) | `2021-2023`
+#### 6. [UI/UX Designer and Developer site BEM Jenderal Soedirman University](https://apps.bem-unsoed.com)) | `2023`
 
 
 
@@ -43,6 +48,7 @@
 [<img align="left" alt="c++" width="30px" src="https://cdn.iconscout.com/icon/free/png-128/c-4-226082.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Figma" width="30px" src="https://cdn.iconscout.com/icon/free/png-128/figma-3521426-2944870.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Adobe Photoshop" width="30px" src="https://pngimg.com/uploads/photoshop/small/photoshop_PNG68.png" style="padding-right:0px;" />][webdev]
+[<img align="left" alt="Adobe Illustrator" width="30px" src="https://www.freepik.com/free-icon/illustrator_14597184.htm#query=icon%20adobe%20illustrator&position=3&from_view=search&track=ais" style="padding-right:0px;" />][webdev]
 
 
 <br />
